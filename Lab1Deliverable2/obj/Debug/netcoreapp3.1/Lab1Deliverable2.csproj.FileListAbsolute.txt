@@ -1,0 +1,13 @@
+U:\Mario\source\repos\Lab1Deliverable2\Lab1Deliverable2\bin\Debug\netcoreapp3.1\Lab1Deliverable2.exe
+U:\Mario\source\repos\Lab1Deliverable2\Lab1Deliverable2\bin\Debug\netcoreapp3.1\Lab1Deliverable2.deps.json
+U:\Mario\source\repos\Lab1Deliverable2\Lab1Deliverable2\bin\Debug\netcoreapp3.1\Lab1Deliverable2.runtimeconfig.json
+U:\Mario\source\repos\Lab1Deliverable2\Lab1Deliverable2\bin\Debug\netcoreapp3.1\Lab1Deliverable2.runtimeconfig.dev.json
+U:\Mario\source\repos\Lab1Deliverable2\Lab1Deliverable2\bin\Debug\netcoreapp3.1\Lab1Deliverable2.dll
+U:\Mario\source\repos\Lab1Deliverable2\Lab1Deliverable2\bin\Debug\netcoreapp3.1\Lab1Deliverable2.pdb
+U:\Mario\source\repos\Lab1Deliverable2\Lab1Deliverable2\obj\Debug\netcoreapp3.1\Lab1Deliverable2.csprojAssemblyReference.cache
+U:\Mario\source\repos\Lab1Deliverable2\Lab1Deliverable2\obj\Debug\netcoreapp3.1\Lab1Deliverable2.AssemblyInfoInputs.cache
+U:\Mario\source\repos\Lab1Deliverable2\Lab1Deliverable2\obj\Debug\netcoreapp3.1\Lab1Deliverable2.AssemblyInfo.cs
+U:\Mario\source\repos\Lab1Deliverable2\Lab1Deliverable2\obj\Debug\netcoreapp3.1\Lab1Deliverable2.csproj.CoreCompileInputs.cache
+U:\Mario\source\repos\Lab1Deliverable2\Lab1Deliverable2\obj\Debug\netcoreapp3.1\Lab1Deliverable2.dll
+U:\Mario\source\repos\Lab1Deliverable2\Lab1Deliverable2\obj\Debug\netcoreapp3.1\Lab1Deliverable2.pdb
+U:\Mario\source\repos\Lab1Deliverable2\Lab1Deliverable2\obj\Debug\netcoreapp3.1\Lab1Deliverable2.genruntimeconfig.cache
